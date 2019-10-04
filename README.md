@@ -1,2 +1,2 @@
-# pokemon-plotly
-Learning plotly with pokemon!
+# pokemon-seabornexploration
+Seaborn and Pokemon!
