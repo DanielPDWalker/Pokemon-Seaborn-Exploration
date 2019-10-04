@@ -1,2 +1,2 @@
-# pokemon-kmeanscluteringtest
-A KMeansclustering test on a pokemon dataset.
+# pokemon-plotly
+Learning plotly with pokemon!
